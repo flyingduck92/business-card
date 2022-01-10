@@ -1,7 +1,5 @@
 # Scrimba React Course (Free) - Project 1
 
-Screenshot can be seen on https://dribbble.com/shots/17236906-Business-Card-UI
-
 App can be seen at https://quirky-lovelace-13cd18.netlify.app/
 
 In the project directory, you can run:
