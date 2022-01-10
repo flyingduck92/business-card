@@ -1,0 +1,54 @@
+.info {
+  text-align: center;
+  
+  .content {
+    padding: 1em 2em;
+  }
+  
+  .info-avatar {
+    height: 317px;   
+    width: 317px;   
+    border-radius: 10px 10px 0px 0px;
+    object-fit: cover;
+    object-position: 0 25%;
+  }
+
+  .info-detail--name {
+    font-weight: 700;
+    font-size: 1.56em;
+  }
+
+  .info-detail--job {
+    font-size: 0.8em;
+    color: #F3BF99;
+  }
+
+  .info-detail--website {
+    font-size: 0.64em;
+  }
+
+  .info-buttons {
+    display:flex;
+    gap: 1em;
+    margin: 1em 0;
+  }
+
+  .info-buttons--email {
+    background: #fff;
+    color: #374151;
+    padding: 1em 2em;
+    font-size:0.875em;
+    font-weight: 500;
+    border-radius:0.375em;
+  }
+
+  .info-buttons--linkedin {
+    background: #5093E2;
+    color: #fff;
+    padding: 1em 2em;
+    font-size:0.875em;
+    font-weight: 500;
+    border-radius:0.375em;
+  }
+}
+

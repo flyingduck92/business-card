@@ -1,0 +1,14 @@
+body {
+  font-family: 'Inter', sans-serif;
+  color: #fff;
+  background: #23252C;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+}
+
+.card {
+  max-width: 317px;
+  border-radius: 0.625em;
+  background: #1A1B21;
+}
