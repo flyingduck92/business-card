@@ -1,6 +1,6 @@
 # Scrimba React Course (Free) - Project 1
 
-Screenshot can be seen on https://dribbble.com/shots/17236831-Business-Card
+Screenshot can be seen on https://dribbble.com/shots/17236843-Business-Card-UI
 
 In the project directory, you can run:
 
