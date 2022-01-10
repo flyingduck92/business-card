@@ -1,7 +1,10 @@
 # Scrimba React Course (Free) - Project 1
 
 Screenshot can be seen on https://dribbble.com/shots/17236906-Business-Card-UI
+<<<<<<< HEAD
 App can be seen at https://clever-swanson-1ff812.netlify.app/
+=======
+>>>>>>> 4cdef5eff001a94952f2db7ac719375ae3fa1000
 
 In the project directory, you can run:
 
