@@ -1,6 +1,6 @@
 # Scrimba React Course (Free) - Project 1
 
-App can be seen at https://quirky-lovelace-13cd18.netlify.app/
+App can be seen at https://business-card-13cd18.netlify.app/
 
 In the project directory, you can run:
 
