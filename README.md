@@ -1,7 +1,5 @@
 # Scrimba React Course (Free) - Project 1
 
-App can be seen at https://business-card-13cd18.netlify.app/
-
 In the project directory, you can run:
 
 ### `npm start` or `yarn start`
